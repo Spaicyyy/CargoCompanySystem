@@ -11,13 +11,13 @@ A Java-based logistics management system designed to simulate real-world cargo o
 
 ## 🛠️ Tech Stack
 * **Language:** Java (JDK 17+)
-* **Concepts:** OOP, Collections, Exception Handling, File I/O
+* **Concepts:** OOP, Collections, Exception Handling
 * **Architecture:** Separation of Concerns (AppData, MenuController, AdminPanel)
 
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Cargo-Automation-System.git](https://github.com/YOUR_USERNAME/Cargo-Automation-System.git)
+    git clone [https://github.com/Spaicyyy/Cargo-Automation-System.git](https://github.com/Spaicyyy/Cargo-Automation-System.git)
     ```
 2.  Open the project in IntelliJ IDEA.
 3.  Run `Main.java`.
